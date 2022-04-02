@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 [![https://github.com/features/actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![https://aws.amazon.com/](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
-## You can show your appreciation to the channel by buying me a coffee:
+## You can show your appreciation by buying me a coffee 🤗:
 [![https://www.buymeacoffee.com/ericchen](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ericchen)
 
